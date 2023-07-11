@@ -23,7 +23,9 @@ N/A
 ##  Links
 Git Hub: https://github.com/Etinago/Bootstrap-Portfolio
 
-Website: 
+Website: https://etinago.github.io/Bootstrap-Portfolio/
 
 
 ## Credits
+
+N/A
