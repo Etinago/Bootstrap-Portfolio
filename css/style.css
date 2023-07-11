@@ -24,17 +24,16 @@ p {
 }
 
 .d-md-grid4 {
-    padding: 25px
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 25px;
+    height: 400px;
+    align-content: space-evenly;
     
 }
-/*.Services {
-    padding: 25px;
-}
-.Skills {
-    padding: 25px;
-}
-.Contact {
+.other {
     padding: 25px;
 }
 
-*/
+
+
