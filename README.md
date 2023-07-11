@@ -4,9 +4,9 @@
 This project is a potifolio which showcases projects undertaken by author to bring all technologies that are enviromentally positive in one space for better knowledge sharing for the industry
 
 ## Screenshot 
-![Alt text](image.png)
+![Alt text](./images/image-2.png)
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 ## Modifications
 Customised navigation bar 
