@@ -1,1 +1,40 @@
 
+.navbar navbar-expand-lg navbar-light bg-light {
+    background-color: rgb(223, 147, 55) !important;
+
+}
+
+
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+.cards {
+    padding: 25px;
+
+}
+.jumbotron {
+    padding: 10px;
+    background-image: linear-gradient(white, rgb(212, 221, 221))
+
+}
+
+.d-md-grid4 {
+    padding: 25px
+    
+}
+/*.Services {
+    padding: 25px;
+}
+.Skills {
+    padding: 25px;
+}
+.Contact {
+    padding: 25px;
+}
+
+*/
